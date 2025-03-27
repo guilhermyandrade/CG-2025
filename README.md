@@ -1,9 +1,7 @@
 # Diagrama UML
 
 <div align="center"><h4>Imagem 1 - Representação visual da relação entre classes</h4></div>
-<div align="center">
-![Imagem 1](diagram.png)
-</div>
+<div align="center"><img title="Imagem 1" src="https://github.com/guilhermyandrade/CG-2025/blob/main/diagram.png"></div>
 
 #  Refatoração, UML, Herança e Recursos de Áudio
 
