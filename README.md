@@ -2,7 +2,7 @@
 
 <div align="center"><h4>Imagem 1 - Representação visual da relação entre classes</h4></div>
 <div align="center">
-![Imagem 1](./diagram.png)
+![Imagem 1](diagram.png)
 </div>
 
 #  Refatoração, UML, Herança e Recursos de Áudio
